@@ -1,0 +1,89 @@
+﻿public class Program
+{
+    public static void Main(string[] args)
+    {
+        Console.WriteLine("Calculadora (Adição / Subtração / Multiplicação / Divisão)");
+
+        int EscolhaUser;
+
+        do
+        {
+            ExibirMenu();
+            EscolhaUser = int.Parse(Console.ReadLine());
+
+            if (EscolhaUser >= 1 && EscolhaUser <= 4)
+            {
+                Console.WriteLine("Digite o primeiro número: ");
+                int Num1 = int.Parse(Console.ReadLine());
+
+                Console.WriteLine("Digite o segundo número: ");
+                int Num2 = int.Parse(Console.ReadLine());
+
+                switch (EscolhaUser)
+                {
+                    case 1:
+                        Console.WriteLine("Você escolheu Adição.");
+                        Somar(Num1, Num2);
+                        break;
+                    case 2:
+                        Console.WriteLine("Você escolheu Subtração.");
+                        Subtrair(Num1, Num2);
+                        break;
+                    case 3:
+                        Console.WriteLine("Você escolheu Multiplicação.");
+                        Multiplicar(Num1, Num2);
+                        break;
+                    case 4:
+                        Console.WriteLine("Você escolheu Divisão.");
+                        Dividir(Num1, Num2);
+                        break;
+                }
+            }
+            else if (EscolhaUser == 5)
+            {
+                Console.WriteLine("Saindo da calculadora. Até logo!");
+            }
+            else
+            {
+                Console.WriteLine("Entrada inválida. Por favor, insira um número entre 1 e 5.");
+            }
+
+        } while (EscolhaUser != 5);
+    }
+
+    public static void ExibirMenu()
+    {
+        Console.WriteLine("Escolha uma opção:\r\n1-Adição\r\n2-Subtração\r\n3-Multiplicação\r\n4-Divisão\r\n5-Sair");
+    }
+
+    public static void Somar(int a, int b)
+    {
+        int resultado = a + b;
+        Console.WriteLine($"A soma de {a} e {b} é: {resultado}");
+    }
+
+    public static void Subtrair(int a, int b)
+    {
+        int resultado = a - b;
+        Console.WriteLine($"A subtração de {a} e {b} é: {resultado}");
+    }
+
+    public static void Multiplicar(int a, int b)
+    {
+        int resultado = a * b;
+        Console.WriteLine($"A multiplicação de {a} e {b} é: {resultado}");
+    }
+
+    public static void Dividir(int a, int b)
+    {
+        if (b != 0)
+        {
+            int resultado = a / b;
+            Console.WriteLine($"A divisão de {a} por {b} é: {resultado}");
+        }
+        else
+        {
+            Console.WriteLine("Erro: Divisão por zero não é permitida.");
+        }
+    }
+}

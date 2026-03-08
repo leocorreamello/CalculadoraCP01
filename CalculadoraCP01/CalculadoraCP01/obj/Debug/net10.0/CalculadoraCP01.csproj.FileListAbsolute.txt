@@ -1,0 +1,15 @@
+C:\Users\Leonardo\Documents\GitHub\CalculadoraCP01\CalculadoraCP01\CalculadoraCP01\bin\Debug\net10.0\CalculadoraCP01.exe
+C:\Users\Leonardo\Documents\GitHub\CalculadoraCP01\CalculadoraCP01\CalculadoraCP01\bin\Debug\net10.0\CalculadoraCP01.deps.json
+C:\Users\Leonardo\Documents\GitHub\CalculadoraCP01\CalculadoraCP01\CalculadoraCP01\bin\Debug\net10.0\CalculadoraCP01.runtimeconfig.json
+C:\Users\Leonardo\Documents\GitHub\CalculadoraCP01\CalculadoraCP01\CalculadoraCP01\bin\Debug\net10.0\CalculadoraCP01.dll
+C:\Users\Leonardo\Documents\GitHub\CalculadoraCP01\CalculadoraCP01\CalculadoraCP01\bin\Debug\net10.0\CalculadoraCP01.pdb
+C:\Users\Leonardo\Documents\GitHub\CalculadoraCP01\CalculadoraCP01\CalculadoraCP01\obj\Debug\net10.0\CalculadoraCP01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Documents\GitHub\CalculadoraCP01\CalculadoraCP01\CalculadoraCP01\obj\Debug\net10.0\CalculadoraCP01.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Documents\GitHub\CalculadoraCP01\CalculadoraCP01\CalculadoraCP01\obj\Debug\net10.0\CalculadoraCP01.AssemblyInfo.cs
+C:\Users\Leonardo\Documents\GitHub\CalculadoraCP01\CalculadoraCP01\CalculadoraCP01\obj\Debug\net10.0\CalculadoraCP01.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\GitHub\CalculadoraCP01\CalculadoraCP01\CalculadoraCP01\obj\Debug\net10.0\CalculadoraCP01.sourcelink.json
+C:\Users\Leonardo\Documents\GitHub\CalculadoraCP01\CalculadoraCP01\CalculadoraCP01\obj\Debug\net10.0\CalculadoraCP01.dll
+C:\Users\Leonardo\Documents\GitHub\CalculadoraCP01\CalculadoraCP01\CalculadoraCP01\obj\Debug\net10.0\refint\CalculadoraCP01.dll
+C:\Users\Leonardo\Documents\GitHub\CalculadoraCP01\CalculadoraCP01\CalculadoraCP01\obj\Debug\net10.0\CalculadoraCP01.pdb
+C:\Users\Leonardo\Documents\GitHub\CalculadoraCP01\CalculadoraCP01\CalculadoraCP01\obj\Debug\net10.0\CalculadoraCP01.genruntimeconfig.cache
+C:\Users\Leonardo\Documents\GitHub\CalculadoraCP01\CalculadoraCP01\CalculadoraCP01\obj\Debug\net10.0\ref\CalculadoraCP01.dll
